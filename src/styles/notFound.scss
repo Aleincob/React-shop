@@ -1,0 +1,27 @@
+
+body {
+    justify-content: center;
+}
+.main-div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.main-div .h1 {
+    color: #ACD9B2;
+    font-size: 52px;
+    margin-top: 32px;
+    margin-bottom: 0;
+}
+.main-div .h2 {
+    color: #C7C7C7;
+}
+.main-div .p {
+    color: #C7C7C7;
+}
+.main-div .figure {
+    opacity: 60;
+}
+.main-div .img {
+    opacity: 60;
+}
